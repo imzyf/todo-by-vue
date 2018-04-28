@@ -1,4 +1,4 @@
-# Todo by Vue Webpack 
+# Todo by Vue webpack
 
 如何体现前端的价值
 
@@ -13,7 +13,7 @@
 npm init
 ```
 
-因为 webpack 的已经是 4，但是老师的课程是 3，所以直接使用老师的 [package.js](https://github.com/caitianxu/vue-core/blob/master/package.json) 的 `dependencies`。
+因为 webpack 已经是 4 了，但是老师的课程是 3，所以直接使用老师的 [package.js](https://github.com/caitianxu/vue-core/blob/master/package.json) 的 `dependencies`。
 
 ## 构建项目
 
@@ -21,3 +21,5 @@ npm init
 npm run build
 npm rum dev
 ```
+
+## Vue.js
