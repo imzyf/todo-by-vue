@@ -10,7 +10,7 @@ const config = {
     entry: path.join(__dirname, 'src/index.js'),
     output: {
         filename: 'bundle.[hash:8].js',
-        path: path.join(__dirname, 'dist')
+        path: path.join(__dirname, 'dist-dev')
     },
     module: {
         rules: [
@@ -79,6 +79,10 @@ if (isDev) {
     config.entry = {
         app: path.join(__dirname, 'src/index.js'),
         vendor: ['vue']
+    }
+    config.output = {
+        filename: 'bundle.[hash:8].js',
+            path: path.join(__dirname, 'dist')
     }
     config.output.filename = '[name].[chunkhash:8].js' // 不同块 不同 hash
     config.module.rules.push({
