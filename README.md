@@ -15,7 +15,7 @@
 npm init
 ```
 
-因为 webpack 已经是 4 了，但是老师的课程是 3，所以直接使用老师的 [package.js](https://github.com/caitianxu/vue-core/blob/master/package.json) 的 `dependencies`。
+因为 webpack 已经是 4 了，但是老师的课程是 3，所以直接使用老师的 [package.js](https://github.com/Jokcy/vue-todo-tech/blob/master/webpack.config.js) 的 `dependencies`。
 
 ## 构建项目
 
