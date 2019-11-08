@@ -1,3 +1,7 @@
+请移步 2019 升级项目【[imzyf/todo-pro-by-vue](https://github.com/imzyf/todo-pro-by-vue)】。
+
+---
+
 # Todo by Vue2 webpack3
 
 学习 [Vue+Webpack 打造 todo 应用教程 - 慕课网](https://www.imooc.com/video/16411) 项目。根据课程章节 `commit`，可查看提交历史。
